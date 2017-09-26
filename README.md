@@ -1,5 +1,3 @@
-empty.txt
-
 # Bioinformatics Bootcamp 2017
 **Biomedical Sciences Program - University of California San Diego (UCSD)**  
 

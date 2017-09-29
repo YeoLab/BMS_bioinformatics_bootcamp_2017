@@ -21,11 +21,11 @@ One homework will be assigned on Friday and due on Monday. Details of the assign
 | --- | ---- | ---- | ----- | ------- |
 | **0** | Pre-CLASS |  | Setup TSCC accounts |  |
 | **Wednesday** | 9/27/17 | 9A - 1P | Sequencing Applications Lecture (Dave Gorkin) and Intro to Unix |  |
-| **Thursday** | 9/28/27 | 9A - 1P | Downloading Data, Fastqc, Intro to Alignment |  |
-| **Friday** | 9/29/17 | 9A - 1P | Alignment and Job Submitting to Cluster |  |
-| **Monday** | 10/2/17 | 9A - 1P | Samtools and Gene quantification |  |
-| **Tuesday** | 10/3/17 | 9A - 1P | RNA Applications Lecutre (Eric Van Nostrand) and Differential Expression |  |
-| **Wednesday** | 10/4/17 | 9A - 1P | Python Demo |  |
+| **Thursday** | 9/28/27 | 9A - 1P | Downloading Data, Fastqc, Alignment |  |
+| **Friday** | 9/29/17 | 9A - 1P | Alignment Recap, Samtools, Gene Quantification |  |
+| **Monday** | 10/2/17 | 9A - 1P | Jupyter Notebooks, DESeq2 |  |
+| **Tuesday** | 10/3/17 | 9A - 1P | RNA Applications Lecutre (Eric Van Nostrand) and Python Demo |  |
+| **Wednesday** | 10/4/17 | 9A - 1P | Gene Pattern  |  |
 
 ## Office Hours
 

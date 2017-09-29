@@ -11,10 +11,6 @@ Lecturer: [Eric Van Nostrand](mailto:elvannostrand@ucsd.edu) (elvannostrand@ucsd
 ### Lecture Location
 Lectures will all be held in CMME room 2047. See below for daily schedule.
 
-
-### Homework Submission
-One homework will be assigned on Friday and due on Monday. Details of the assignment coming soon. 
-
 ## Schedule
 
 | Day | Date | Time | Topic | Lecture |

@@ -33,9 +33,9 @@ One homework will be assigned on Friday and due on Monday. Details of the assign
 | --- | ---- | ---- | ----- | ------- |
 | **Thursday** | 9/28/27 | 4P - 6P | The Lounge (old Cafe Vita) | Ryan M |
 | **Sunday** | 10/1/17 | 1P - 3P | Mesa Nueva | Emily + Krystyna |
-| **Tuesday** | 10/2/17 | 6P - 8P | Regents Pizza | Emily |
-| **Thursday** | 10/3/17 | 4P - 6P | Leichtag Lobby | Josh + Ryan G |
-| **Sunday** | 10/4/17 | 1P - 3P | Mesa Nueva | Krystyna |
+| **Tuesday** | 10/3/17 | 6P - 8P | Regents Pizza | Emily |
+| **Thursday** | 10/5/17 | 4P - 6P | Leichtag Lobby | Josh + Ryan G |
+| **Sunday** | 10/8/17 | 1P - 3P | Mesa Nueva | Krystyna |
 
 
 ## Group Project

@@ -28,7 +28,7 @@ Lectures will all be held in CMME room 2047. See below for daily schedule.
 | Day | Date | Time | Location | Hosting |
 | --- | ---- | ---- | ----- | ------- |
 | **Thursday** | 9/28/27 | 4P - 6P | The Lounge (old Cafe Vita) | Ryan M |
-| **Sunday** | 10/1/17 | 1P - 3P | Mesa Nueva | Emily + Krystyna |
+| **Sunday** | 10/1/17 | 1P - 3P | Mesa Nueva (Cresta Study Rooms) | Emily + Krystyna |
 | **Tuesday** | 10/3/17 | 6P - 8P | Regents Pizza | Emily |
 | **Thursday** | 10/5/17 | 4P - 6P | Leichtag Lobby | Josh + Ryan G |
 | **Sunday** | 10/8/17 | 1P - 3P | Mesa Nueva | Krystyna |

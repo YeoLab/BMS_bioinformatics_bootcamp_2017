@@ -29,10 +29,9 @@ Lectures will all be held in CMME room 2047. See below for daily schedule.
 | --- | ---- | ---- | ----- | ------- |
 | **Thursday** | 9/28/27 | 4P - 6P | The Lounge (old Cafe Vita) | Ryan M |
 | **Sunday** | 10/1/17 | 1P - 3P | Mesa Nueva (Cresta Study Rooms) | Emily + Krystyna |
-| **Tuesday** | 10/3/17 | 6P - 8P | Regents Pizza | Emily |
-| **Thursday** | 10/5/17 | 4P - 6P | Leichtag Lobby | Josh + Ryan G |
+| **Tuesday** | 10/3/17 | 6P - 8P | SCRM meetings | Emily |
+| **Thursday** | 10/5/17 | 3P - 5P | Leichtag Lobby | Josh + Ryan G |
 | **Sunday** | 10/8/17 | 1P - 3P | Mesa Nueva | Krystyna |
-
 
 ## Group Project
 
@@ -49,7 +48,8 @@ Lectures will all be held in CMME room 2047. See below for daily schedule.
 
 ## Meeting Schedule
 
-**Location: TBA**
+**Location: SCRM 3116 (across from elevator on 3rd floor)**
+
 **Date: Tuesday October 3**
 
 

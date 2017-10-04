@@ -77,3 +77,31 @@ Lectures will all be held in CMME room 2047. See below for daily schedule.
 
 
 * Write up a proposal (half page, single spaced) explaining your question and computational approach. Feel free to use the literature to draw inspiration for your proposal (you will need to include literature citations in your final report). 
+
+
+**Final Report**
+
+* Assigned Wednesday 10/4, Due to Emily and Ryan via email by Sunday 10/8 at 11:59 PM
+
+
+* Minimum 2 page report to address the question proposed in part 1. This report will have 4 sections, be sure to include all literature citations used.  
+
+    * Introduction - Background to why this is an important question
+    
+    * Question - The specific biological question that will be addressed using the datasets that you have chosen. 
+    
+    * Results - What analyses did you do on these datasets? What are your results? This section will be supported with figures and figure legends. 
+    
+    * Discussion - What are the implications of your results? Did you answer your question? Where would you take this analysis next? 
+  
+  
+* Analyses required:
+
+    * Download Fastq, run fastqc, STAR, samtools, featureCounts, DESeq2. Include the full path to the results of these analyses on TSCC in an appendix to your report. 
+    
+    * Calculate TPM and make a seaborn pairplot on the log2(TPM) from your counts matrix. See notebook8. 
+    
+    * Use bedtools in some fashion to incorporate your binding dataset and make a venn diagram of your result. Include an explanation of the analysis you performed using bedtools in your results/discussion section(s).
+    
+    * Run GSEA on your dataset. Include a screenshot of your most interesting results from the html file. Include a discussion of interesting gene sets in your results/discussion section(s). 
+    

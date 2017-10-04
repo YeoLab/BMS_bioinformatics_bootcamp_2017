@@ -46,22 +46,6 @@ Lectures will all be held in CMME room 2047. See below for daily schedule.
 | Ila | Tiani | | | | Emily| 
 
 
-## Meeting Schedule
-
-**Location: SCRM 3116 (across from elevator on 3rd floor)**
-
-**Date: Tuesday October 3**
-
-
-| Time | Group | 
-| ------ | ------ | 
-| 6:00 - 6:20 | Group 2 | 
-| 6:20 - 6:40 | Group 6 | 
-| 6:40 - 7:00 | Group 1 |
-| 7:00 - 7:20 | Group 3 | 
-| 7:20 - 7:40 | Group 4 |
-| 7:40 - 8:00 | Group 5 |
-
 **Proposal**
 
 * Assigned Friday 9/29
